@@ -137,12 +137,12 @@ You have the following rights regarding your personal data:
 - Update your display name and profile information in app settings
 
 ### Deletion
-- Request account deletion by contacting us at [YOUR SUPPORT EMAIL]
+- Request account deletion by contacting us at safetysnapos@gmail.com
 - Upon deletion, we will remove your account data and anonymize your reports within 30 days
 - Note: Reports may be retained in anonymized form for compliance purposes
 
 ### Export
-- Request a copy of your data by contacting us at [YOUR SUPPORT EMAIL]
+- Request a copy of your data by contacting us at safetysnapos@gmail.com
 - We will provide your data in JSON format within 30 days
 
 ### Opt-Out
@@ -178,7 +178,7 @@ If you are a California resident, you have additional rights under the Californi
 - **Right to Opt-Out:** Opt out of "sale" of personal information (Note: We do NOT sell your data)
 - **Right to Non-Discrimination:** We will not discriminate against you for exercising your rights
 
-To exercise these rights, contact us at [YOUR SUPPORT EMAIL].
+To exercise these rights, contact us at safetysnapos@gmail.com
 
 ---
 
@@ -219,12 +219,13 @@ In the event of a data breach that affects your personal information, we will:
 
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
-**Email:** [YOUR SUPPORT EMAIL]
+**Email:** safetysnapos@gmail.com
 **Mailing Address:**
-[YOUR COMPANY NAME]
-[STREET ADDRESS]
-[CITY, STATE ZIP]
-[COUNTRY]
+SafetySnapOS
+620 B Route 595
+Temperance Vale, NB
+E6G2J4
+Canada
 
 **Response Time:** We aim to respond to all privacy inquiries within 5 business days.
 
